@@ -6,10 +6,15 @@ This file is UNCOMPLETED right now, so please do not use it to plan your Tantilu
 
 # Printed parts
 ## Main corners
+
 4x panel_combine_BOTTOM.stl
+
 1x panel_combine_FRONT_LEFT.stl
+
 1x panel_combine_FRONT_RIGHT.stl
+
 1x panel_combine_REAR_LEFT.stl
+
 1x panel_combine_READ_RIGHT.stl
 
 ## Other (TBD)
