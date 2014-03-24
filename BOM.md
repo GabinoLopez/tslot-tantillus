@@ -20,3 +20,12 @@ This file is UNCOMPLETED right now, so please do not use it to plan your Tantilu
 ## Other (TBD)
 
 # Vitamins (non-printable parts) TBD
+
+## Main enclosure
+8x T-Slot 20mm (Horizontal 200mm)
+4x T-Slot 20mm (Vertical 335mm)
+88x T-Slot nuts
+
+## Z Axis
+1x T-Slot tripe width (Vertical 295mm)
+4x T-Slot 90 degree brackets
